@@ -26,4 +26,4 @@ console.log(typeof someNumber); // output is number
 let anotherNumber=45
 
 let stringNumber = String(anotherNumber)
-console.log(typeof stringNumber); // output is string
+console.log(typeof stringNumber); // output is string 
